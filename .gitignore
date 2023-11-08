@@ -1,0 +1,28 @@
+# Node.js
+/node_modules
+npm-debug.log*
+
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build files
+dist/
+build/
+*.min.*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
